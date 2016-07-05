@@ -1,0 +1,106 @@
+!SESSION 2016-03-17 20:09:49.642 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY com.jaspersoft.studio 1 0 2016-03-17 20:09:57.705
+!MESSAGE Starting JaspersoftStudio bundle - Version: 6.2.0.final
+
+!ENTRY org.eclipse.ui 2 2 2016-03-17 20:10:39.352
+!MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2016-03-17 20:10:53.445
+!MESSAGE No repository found at http://jasperstudio.sf.net/jssproductrepo_E4_CE/.
+
+!ENTRY org.eclipse.jface 2 0 2016-03-17 20:15:11.390
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-03-17 20:15:11.390
+!MESSAGE A conflict occurred for F2:
+Binding(F2,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@248b2091,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F2,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.showInformation,Show Tooltip Description,
+		Displays information for the current caret location in a focused hover,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ba8d7c7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.xtext.ui.embeddedTextEditorScope,,,system)
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-03-17 20:21:26.451
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-03-18 12:59:39.510 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-03-18 12:59:43.760
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.jaspersoft.studio 1 0 2016-03-18 12:59:46.307
+!MESSAGE Starting JaspersoftStudio bundle - Version: 6.2.0.final
+
+!ENTRY org.eclipse.ui 2 2 2016-03-18 13:00:22.131
+!MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2016-03-18 13:00:32.174
+!MESSAGE No repository found at http://jasperstudio.sf.net/jssproductrepo_E4_CE/.
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-03-18 13:09:17.263
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Paúl'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-03-18 13:22:29.624
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2016-04-09 12:03:05.820 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_65
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_MX
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @noDefault
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-04-09 12:03:08.584
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.jaspersoft.studio 1 0 2016-04-09 12:03:11.628
+!MESSAGE Starting JaspersoftStudio bundle - Version: 6.2.0.final
+
+!ENTRY org.eclipse.ui 2 2 2016-04-09 12:03:35.279
+!MESSAGE Invalid preference category path: org.eclipse.ui.net.NetPreferences (bundle: org.eclipse.jsch.ui, page: org.eclipse.jsch.ui.SSHPreferences)
+
+!ENTRY org.eclipse.jface 2 0 2016-04-09 12:04:47.240
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-04-09 12:04:47.240
+!MESSAGE A conflict occurred for F2:
+Binding(F2,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.rename,Rename,
+		Rename the selected item,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3370be55,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F2,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.showInformation,Show Tooltip Description,
+		Displays information for the current caret location in a focused hover,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e9a4142,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.xtext.ui.embeddedTextEditorScope,,,system)
+
+!ENTRY org.eclipse.core.resources 2 10035 2016-04-09 12:31:29.798
+!MESSAGE The workspace will exit with unsaved changes in this session.
